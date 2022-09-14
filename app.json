@@ -22,7 +22,5 @@
             "size": "free"
         }
     },
-    "stack": "heroku-20",
-    
-    "start": "python3 bot.py"
+    "stack": "heroku-20"
 }
