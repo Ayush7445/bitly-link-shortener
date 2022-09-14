@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/Ayush7445/bitly-link-shortener",
     "env": {
-        "BOT_TOKEN": {
+        "API_TOKEN": {
             "description": "Get it from @BotFather"
         }
     },
